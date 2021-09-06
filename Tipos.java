@@ -44,5 +44,9 @@ public class Tipos {
      // Number
      // Object
      // Qualquer outros objetos
+
+
+
+     // variaveis criadas com "var" tem seu tipo inferido, mas uma vez definido não muda.
  }   
 }
