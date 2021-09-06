@@ -1,5 +1,7 @@
-public class Primitivos {
+public class Tipos {
  public static void main(String[] args) {
+
+     // PRIMITIVOS
 
      // inteiros
      // Não aceitam nulos
@@ -23,5 +25,24 @@ public class Primitivos {
 
      // BOLEANO
      // (false, true)
+
+     // WRAPPERS -> são objetos
+     // Seguem as mesmas regras dos primitivos mas aceitam null
+     // Podem passar seus valores à um primitivo (unboxing)
+     // byte    -> Byte
+     // char    -> Character
+     // short   -> Short
+     // int     -> Integer
+     // float   -> Float
+     // double  -> Double
+     // boolean -> Boolean
+
+
+     // NÃO PRIMITIVOS 
+
+     // String
+     // Number
+     // Object
+     // Qualquer outros objetos
  }   
 }
