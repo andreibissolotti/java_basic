@@ -18,3 +18,4 @@
     - static
         É usado para a criação de uma variável que poderá ser acessada por todas as instâncias de objetos desta classe como uma variável comum, ou seja, a variável criada será a mesma em todas as instancias e quando seu contúdo é modificado numa das instâncias, a modificação ocorre em todas as demais. E nas declarações de métodos ajudam no acesso direto à classe, portanto não é nescessário instanciar um objeto para acessar o método.
     - final
+        Quando e aplicado na classe, não permite estender, nos métodos impede que o mesmo seja sobrescrito (overriding) na subclasse, e nos valores de váriaveis não pode ser alterado depois que já tenha sido atribuído um valor.
